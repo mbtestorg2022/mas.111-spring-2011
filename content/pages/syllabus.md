@@ -22,15 +22,188 @@ This course is for students doing UROP ([Undergraduate Research Opportunities Pr
 Calendar
 --------
 
-| CLASS | TOPICS | OBJECTIVES/QUESTIONS |
-| --- | --- | --- |
-| 1 | Research |  {{< br >}}{{< br >}} *   A brief overview of the semester{{< br >}}*   What is research, and what kind do we do at the Media Lab?{{< br >}}*   How to design an experiment{{< br >}}*   How and why to keep a lab notebook {{< br >}}{{< br >}}  |
-| 2 | Ethics |  {{< br >}}{{< br >}} *   Research involving human subjects (Dr. Leigh Firn, Chair of COUHES){{< br >}}*   Ethics/ownership/teamwork {{< br >}}{{< br >}}  |
-| 3 | Intellectual Property (IP) |  {{< br >}}{{< br >}} *   Understanding intellectual property, copyright, patents {{< br >}}{{< br >}}  |
-| 4 | Resources |  {{< br >}}{{< br >}} *   What kinds of resources exist and how to find them {{< br >}}{{< br >}}  |
-| 5 | What's "peer review" anyway? |  {{< br >}}{{< br >}} *   How to read/write a research paper{{< br >}}*   Kinds of conferences and journals{{< br >}}*   CFP's and review processes {{< br >}}{{< br >}}  |
-| 6 | What the web means to all this |  {{< br >}}{{< br >}} *   How (and when) to do a research-results Web page {{< br >}}{{< br >}}  |
-| 7 | How does this stuff get paid for? |  {{< br >}}{{< br >}} *   Research funding and how it works {{< br >}}{{< br >}}  |
-| 8 | Demoing and presenting |  {{< br >}}{{< br >}} *   How to demo{{< br >}}*   How to make slides and do an oral presentation {{< br >}}{{< br >}}  |
-| 9-10 | Final presentation practice |  {{< br >}}{{< br >}} *   Practice presentations and critiques {{< br >}}{{< br >}}  |
-| 11-12 | Final presentations |  {{< br >}}{{< br >}} *   Final presentations {{< br >}}{{< br >}}
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+CLASS
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+OBJECTIVES/QUESTIONS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Research
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   A brief overview of the semester
+*   What is research, and what kind do we do at the Media Lab?
+*   How to design an experiment
+*   How and why to keep a lab notebook
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Ethics
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   Research involving human subjects (Dr. Leigh Firn, Chair of COUHES)
+*   Ethics/ownership/teamwork
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Intellectual Property (IP)
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   Understanding intellectual property, copyright, patents
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Resources
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   What kinds of resources exist and how to find them
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+What's "peer review" anyway?
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   How to read/write a research paper
+*   Kinds of conferences and journals
+*   CFP's and review processes
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+What the web means to all this
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   How (and when) to do a research-results Web page
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+How does this stuff get paid for?
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   Research funding and how it works
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Demoing and presenting
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   How to demo
+*   How to make slides and do an oral presentation
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9-10
+{{< tdclose >}}
+{{< tdopen >}}
+Final presentation practice
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   Practice presentations and critiques
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11-12
+{{< tdclose >}}
+{{< tdopen >}}
+Final presentations
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   Final presentations
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

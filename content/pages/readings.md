@@ -73,7 +73,7 @@ Intellectual Property (IP)
 *   [Google Patent Search](http://www.google.com/patents)
 *   [World Intellectual Property Organization](http://www.wipo.int/portal/index.html.en)
 *   **Handout**: [US Patent and Trademark Office General Information Concerning Patents](http://www.uspto.gov/patents/resources/general_info_concerning_patents.jsp)
-*   **Handout**: Example patent (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.9MB](http://courses.media.mit.edu/2011spring/mas111/pat5177685.pdf))
+*   **Handout**: Example patent ([PDF - 1.9MB](http://courses.media.mit.edu/2011spring/mas111/pat5177685.pdf))
 
 
 {{< tdclose >}}
